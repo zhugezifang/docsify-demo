@@ -9,9 +9,9 @@
 
 官网教程的也很详细了，地址在这里：[https://docsify.js.org/#/zh-cn/quickstart](https://docsify.js.org/#/zh-cn/quickstart) ，不过我的这篇教程比较贴合实际使用。
 
-下面演示的所有内容的源文件在这里：https://github.com/Snailclimb/docsify-demo
+下面演示的所有内容的源文件在这里：https://github.com/Snailclimb/SQL自学网
 
-最终效果展示地址：https://snailclimb.gitee.io/docsify-demo/#/
+最终效果展示地址：https://snailclimb.gitee.io/SQL自学网/#/
 
 ## 一.前置条件
 
@@ -20,11 +20,11 @@
 
 ## 二.初始化项目并预览
 
-**1.新建一个文件夹：`mkdir docsify-demo`**
+**1.新建一个文件夹：`mkdir SQL自学网`**
 
-**2.进入文件夹并运行 docsify 初始化命令：`cd docsify-demo` -> `docsify init ./`**
+**2.进入文件夹并运行 docsify 初始化命令：`cd SQL自学网` -> `docsify init ./`**
 
-你会发现 docsify-demo 文件夹下面多了下面这些文件，一一为你解释一下它们是干嘛的！
+你会发现 SQL自学网 文件夹下面多了下面这些文件，一一为你解释一下它们是干嘛的！
 
 ![](https://imgkr.cn-bj.ufileos.com/db8f8dfb-00fb-4608-a400-9a6b036b9a25.png)
 
@@ -36,7 +36,7 @@
 
 ![](https://imgkr.cn-bj.ufileos.com/c91ce762-2948-4455-af28-a330bc7e4120.png)
 
-建议 clone 一下我的仓库： [https://github.com/Snailclimb/docsify-demo](https://github.com/Snailclimb/docsify-demo) ，在本地运行一下 ，这是一个比较典型的使用 docsify 搭建的网站，可以作为参考。如果你们想搭建一个不错的文档网站的话，可以在我的这个基础上去改。
+建议 clone 一下我的仓库： [https://github.com/Snailclimb/SQL自学网](https://github.com/Snailclimb/SQL自学网) ，在本地运行一下 ，这是一个比较典型的使用 docsify 搭建的网站，可以作为参考。如果你们想搭建一个不错的文档网站的话，可以在我的这个基础上去改。
 
 ### 3.1 修改配置文件 index.html
 
@@ -48,7 +48,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>docsify-demo</title>
+  <title>SQL自学网</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport"
@@ -62,7 +62,7 @@
   <script src="//unpkg.com/docsify-edit-on-github/index.js"></script>
   <script>
     window.$docsify = {
-      name: 'docsify-demo',
+      name: 'SQL自学网',
       repo: 'https://github.com/Snailclimb/JavaGuide-Interview',
       maxLevel: 5,//最大支持渲染的标题层级
       subMaxLevel: 3,
@@ -90,7 +90,7 @@ loadSidebar: true
 
 如下图所示，我们定义了一个侧边栏，并且为它添加了一些内容：
 
-_一般建议将文档放进 docs 文件下面，可以参考我的仓库：[https://github.com/Snailclimb/docsify-demo](https://github.com/Snailclimb/docsify-demo)_
+_一般建议将文档放进 docs 文件下面，可以参考我的仓库：[https://github.com/Snailclimb/SQL自学网](https://github.com/Snailclimb/SQL自学网)_
 
 ![](https://imgkr.cn-bj.ufileos.com/d2a6900f-82a1-443b-a3be-fdc1a523486d.png)
 
