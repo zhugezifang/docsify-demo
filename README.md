@@ -6,7 +6,7 @@ SQL自学网是一个SQL学习和入门的网站，帮助大家快速掌握和�
 
 添加微信备注(SQL学习交流)，群内有大厂技术专家和SQL领域优秀博主
 
-https://i.postimg.cc/mZjwbw6J/20231206213016.jpg
+![](https://i.postimg.cc/mZjwbw6J/20231206213016.jpg)
 
 ### 作者介绍
 
