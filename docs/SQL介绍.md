@@ -6,7 +6,8 @@ SQL 是用于访问和处理数据库的标准的计算机语言
 -   SQL 指结构化查询语言
 -   SQL 使我们有能力访问数据库
 -   SQL 是一种 ANSI 的标准计算机语言
-![](https://i.postimg.cc/3RkQrr5M/db.png)
+
+![](img/db.png)
 
 SQL 可与数据库程序协同工作，比如 MS Access、DB2、Informix、MS SQL Server、Oracle、Sybase 以及其他数据库系统
 
@@ -40,7 +41,7 @@ SQL 是一门 ANSI 的标准计算机语言，用来访问和操作数据库系�
 
 打个比方，每个人家里都会有冰箱，冰箱是用来干什么的？冰箱是用来存放食物的地方。
 
-![](https://img-blog.csdnimg.cn/img_convert/297948d2d7708ab2a5f51be170d95478.png)
+![](img/db_info.png)
 
 同样的，数据库是存放数据的地方。正是因为有了数据库后，我们可以直接查找数据。
 
@@ -54,7 +55,5 @@ RDBMS 是 SQL 的基础，同样也是所有现代数据库系统的基础，比
 -   Oracle
 -   MySQL
 -   Microsoft Access
-
-![](https://i.postimg.cc/N0LzmNNm/297948d2d7708ab2a5f51be170d95478.png)
 
 **RDBMS** 中的数据存储在被称为表（tables）的数据库对象中。**表** 是相关的数据项的集合，它由列和行组成。
